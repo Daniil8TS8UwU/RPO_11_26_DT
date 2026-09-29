@@ -21,7 +21,8 @@ int main()
 		std::cout << "\n";
 	}
 	
-	std::cout << "123";
+	std::cout << "\n\n123";
+	std::cout << "\n\nHello world!"
 
 	return 0;
 }
